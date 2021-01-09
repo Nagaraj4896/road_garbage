@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Basler_acA1920-40uc__23420840__20210105_151916609_724.jpeg</filename>
+    <path>cmtF14-PascalVOC-export/Annotations/Basler_acA1920-40uc__23420840__20210105_151916609_724.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>curb_grill_medium</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1347.282641816349</xmin>
+        <ymin>987.8809200666187</ymin>
+        <xmax>1909.9722037664956</xmax>
+        <ymax>1190.5074930101578</ymax>
+    </bndbox>
+</object><object>
+    <name>road_turf_low</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92.17688668438417</xmin>
+        <ymin>193.58444357007798</ymin>
+        <xmax>1903.485858458578</xmax>
+        <ymax>1128.9090269278406</ymax>
+    </bndbox>
+</object>
+</annotation>

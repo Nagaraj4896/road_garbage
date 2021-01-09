@@ -1,0 +1,29 @@
+item {
+    id: 1
+    name: 'day_motorcycle_front'
+}
+
+item {
+    id: 2
+    name: 'day_motorcycle_rear'
+}
+
+item {
+    id: 3
+    name: 'day_small_front'
+}
+
+item {
+    id: 4
+    name: 'day_small_rear'
+}
+
+item {
+    id: 5
+    name: 'day_truck_front'
+}
+
+item {
+    id: 6
+    name: 'day_truck_rear'
+}
